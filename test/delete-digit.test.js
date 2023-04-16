@@ -16,3 +16,4 @@ describe('Delete digit', () => {
     assert.strictEqual(deleteDigit(342), 42);
   });
 });
+
